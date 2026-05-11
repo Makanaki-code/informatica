@@ -1,2 +1,3 @@
 # informatica
-sitioeducativo
+Sitio Educativo 
+Cultura Cultura Tecnologica
